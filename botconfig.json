@@ -2,6 +2,6 @@
     "token": "NzAzNjU1MTk3MTUwNTQzODgy.XqRwCg.bbpveGWbImZtwutVSfWy7hWH-r8",
     "prefix": ";",
     "nodes":  [
-        { "host": "localhost", "port": 2333, "password": "youshallnotpass" }
+        { "host": "176.31.240.117", "port": 2333, "password": "youshallnotpass" }
       ]
 }
